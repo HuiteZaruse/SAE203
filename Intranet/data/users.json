@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "password": "$2y$10$NjpjwIxDqTwBIPXsiRxn3OBgeeEg0n83JAiQQDkqqUO7O328olNGG",
+    "nom": "Raoul Le Roux",
+    "prenom": "Aëlig",
+    "email": "aeligraoul@vedda-interactive.fr",
+    "fonction": "Directeur de Vedda",
+    "groupes": ["admin", "direction"],
+    "photo": "assets/photos/aelig.jpg",
+    "bio": "Supervise les opérations globales du studio et définit la stratégie de croissance pour nos futures productions.",
+    "created_at": "2023-01-15"
+  },
+  {
+    "id": 2,
+    "username": "direction",
+    "password": "$2y$10$jDfFQUJCoRojvkVnv5sLh.y2cufaJdtuVZFa7u8mpSMbz6JW1G6Vy",
+    "nom": "Leroy",
+    "prenom": "Sophie",
+    "email": "s.leroy@vedda-interactive.fr",
+    "fonction": "PDG",
+    "groupes": ["direction"],
+    "photo": "assets/photos/1.jpeg",
+    "bio": "Fondatrice et PDG de Vedda Interactive. Passionnée de jeux vidéo depuis l'enfance, elle a créé le studio en 2018.",
+    "created_at": "2023-01-15"
+  },
+  {
+    "id": 3,
+    "username": "manager",
+    "password": "$2y$10$TPa/9mFcZzrjtHquD/rSZ.7FxFCqRTFwaWJBTVXqbEYx.JsNq9ema",
+    "nom": "Dubois",
+    "prenom": "Thomas",
+    "email": "t.dubois@vedda-interactive.fr",
+    "fonction": "Directeur Technique",
+    "groupes": ["managers", "salaries"],
+    "photo": "assets/photos/6.jpeg",
+    "bio": "Directeur technique en charge de l'équipe de développement. Expert en moteurs de jeu et optimisation.",
+    "created_at": "2023-02-01"
+  },
+  {
+    "id": 4,
+    "username": "salarie",
+    "password": "$2y$10$olDxP0jO/bUHZujDImOUL.5Q5rJx3FL9f8lVlx07GyNN.oBEBuzZS",
+    "nom": "Martin",
+    "prenom": "Camille",
+    "email": "c.martin@vedda-interactive.fr",
+    "fonction": "Développeuse Front-End",
+    "groupes": ["salaries"],
+    "photo": "assets/photos/2.jpeg",
+    "bio": "Développeuse spécialisée en interfaces utilisateur et expérience joueur.",
+    "created_at": "2023-03-10"
+  }
+]

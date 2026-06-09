@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1780954427,
+        "nom": "Orange Business",
+        "description": "Infrastructures Réseaux et Cloud",
+        "logo_path": "images\/1780954427_791ffe68.jpg"
+    },
+    {
+        "id": 1780954770,
+        "nom": "BPI France",
+        "description": "Financement et Subventions Innovation",
+        "logo_path": "images\/1780954770_e8600f3a.png"
+    },
+    {
+        "id": 1780954988,
+        "nom": "Epic Games",
+        "description": "Fournisseur du Moteur de Jeu (Unreal Engine)",
+        "logo_path": "images\/1780954988_153c759c.png"
+    },
+    {
+        "id": 1780955518,
+        "nom": "Destination Rennes",
+        "description": "Soutien Événementiel et Logistique Locaux",
+        "logo_path": "images\/1780955518_7f982f26.png"
+    },
+    {
+        "id": 1780956232,
+        "nom": "IUT Saint Malo",
+        "description": "Partenaire Académique (Stagiaires et Alternants)",
+        "logo_path": "images\/1780956232_bbe48665.png"
+    },
+    {
+        "id": 1780958055,
+        "nom": "Rubycat",
+        "description": "Contrôle des Accès Serveurs",
+        "logo_path": "images\/1780958055_a023d41e.png"
+    }
+]

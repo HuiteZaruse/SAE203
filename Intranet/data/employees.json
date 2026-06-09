@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "nom": "Leroy",
+        "prenom": "Sophie",
+        "fonction": "PDG",
+        "photo": "1.jpeg",
+        "bio": "Fondatrice et PDG de Vedda Interactive. Passionnée de jeux vidéo depuis l'enfance, elle a créé le studio en 2022."
+    },
+    {
+        "id": 2,
+        "nom": "Petibon",
+        "prenom": "Nathan",
+        "fonction": "Vigile",
+        "photo": "nathan.jpg",
+        "bio": "Expert en sports de combat."
+    },
+    {
+        "id": 3,
+        "nom": "Martin",
+        "prenom": "Camille",
+        "fonction": "Développeuse Front-End",
+        "photo": "2.jpeg",
+        "bio": "Spécialisée en interfaces utilisateur et expérience joueur. Elle rend nos menus intuitifs et esthétiques."
+    },
+    {
+        "id": 4,
+        "nom": "Raoul",
+        "prenom": "Aëlig",
+        "fonction": "Directeur de Vedda",
+        "photo": "aelig.jpg",
+        "bio": "Supervise les opérations globales du studio et définit la stratégie de croissance pour nos futures productions."
+    },
+    {
+        "id": 5,
+        "nom": "Le Bozec",
+        "prenom": "Vasco",
+        "fonction": "Développeur de jeux",
+        "photo": "vasco.jpg",
+        "bio": "Spécialiste du gameplay et de la physique des jeux. Donne vie aux idées du game design à travers un code propre et performant."
+    },
+    {
+        "id": 6,
+        "nom": "Menes",
+        "prenom": "Gaëthan",
+        "fonction": "Directeur Artistique",
+        "photo": "gaethan.jpg",
+        "bio": "Garant de l'identité visuelle de nos jeux. Il supervise l'équipe d'artistes pour créer des univers immersifs et uniques."
+    },
+    {
+        "id": 7,
+        "nom": "Bernard",
+        "prenom": "Lucas",
+        "fonction": "Lead Game Designer",
+        "photo": "6.jpeg",
+        "bio": "Conçoit les mécaniques fondamentales, les règles du jeu et l'équilibre général de nos productions."
+    },
+    {
+        "id": 8,
+        "nom": "Petit",
+        "prenom": "Chloé",
+        "fonction": "Narrative Designer",
+        "photo": "3.jpeg",
+        "bio": "Écrit les dialogues, scénarise les quêtes et tisse la trame narrative des mondes que nous créons."
+    },
+    {
+        "id": 9,
+        "nom": "Cottet Martin",
+        "prenom": "Arthur",
+        "fonction": "Sound Designer",
+        "photo": "arthur.jpeg",
+        "bio": "Crée l'ambiance sonore, les bruitages et intègre les compositions musicales pour une immersion totale."
+    },
+    {
+        "id": 10,
+        "nom": "Grand",
+        "prenom": "Emma",
+        "fonction": "Community Manager",
+        "photo": "4.jpeg",
+        "bio": "Anime nos réseaux sociaux, échange avec la communauté de joueurs et gère la communication externe du studio."
+    },
+    {
+        "id": 11,
+        "nom": "Martin",
+        "prenom": "Nathan",
+        "fonction": "Testeur QA",
+        "photo": "7.jpeg",
+        "bio": "Traque les moindres bugs et s'assure de la stabilité et de la qualité finale de nos jeux avant leur sortie."
+    },
+    {
+        "id": 12,
+        "nom": "Moreau",
+        "prenom": "Léa",
+        "fonction": "Concept Artist 2D",
+        "photo": "5.jpeg",
+        "bio": "Réalise les premiers croquis, les recherches de personnages et les décors qui serviront de base à l'équipe."
+    }
+]
